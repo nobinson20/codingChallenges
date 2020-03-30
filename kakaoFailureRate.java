@@ -54,3 +54,6 @@ public class kakaoFailureRate {
         return result;
     }
 }
+
+
+// succint 하게 쓰긴 했지만 arraylist, collections API를 너무 많이 이용했다는 단점이 있다.
