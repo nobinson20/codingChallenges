@@ -1,5 +1,3 @@
-package coding.challenge;
-
 import java.util.*;
 
 public class Main {
